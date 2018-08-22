@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         
         let a = 3
+        
+        let b = 4
     }
 
     override func didReceiveMemoryWarning() {
